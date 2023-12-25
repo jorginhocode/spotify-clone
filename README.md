@@ -3,6 +3,6 @@
 ### Spotify Clone using HTML & CSS
 
 - Spotify Clone using HTML & CSS.
-- I made it as a CSS exercise to practice positioning and layout.
+- I did it as a CSS exercise to practice positioning and layout.
 
 ![spotify-clone](/preview.png)
